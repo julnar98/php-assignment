@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-    <img src="file:///home/julnar/Downloads/Webysther_20160423_-_Elephpant.svg.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/julnar98/php-assignment/blob/main/Webysther_20160423_-_Elephpant.svg.png" alt="Logo" width="180" height="120">
   </a>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,7 +29,7 @@
 This PHP simple project was actually assigned to me as a task, where I had to reveal my way of thinking and find the most simple, fast, and clear solutions. 
 
 ### Built With
-* [php](https://www.php.net)
+* [php](https://www.php.net) <br/>
 This code is a pure PHP code.
 
 
@@ -49,5 +49,6 @@ This project included two files, the first file basically included a Sort Functi
 <!-- CONTACT -->
 ## Contact
 Julnar Isaifan 
+<br/>
 Project link: [https://github.com/julnar98/php-assignment](https://github.com/julnar98/php-assignment)
 
