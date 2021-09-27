@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE TASK -->
 ## About 
-This PHP simple task was actually assigned to me as a task, where I had to reveal my way of thinking and find the most simple, fast, and clear solutions. 
+This PHP simple task was actually assigned to me as an assignment, where I had to reveal my way of thinking and find the most simple, fast, and clear solutions. 
 
 ### Built With
 * [php](https://www.php.net) <br/>
